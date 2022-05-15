@@ -1,9 +1,12 @@
 # 04.GitOps
-##Link to repo:
-	https://github.com/artem-devitsky/04.GitOps
-##Link to file: 
-	https://github.com/artem-devitsky/04.GitOps/blob/dev/find_tabs_pr.yaml
-##Pipeline Log:
+**##Link to repo:**
+	[04.GitOps](https://github.com/artem-devitsky/04.GitOps)
+
+**##Link to file:** 
+	[find_tabs_pr.yaml](https://github.com/artem-devitsky/04.GitOps/blob/dev/find_tabs_pr.yaml)
+
+**##Pipeline Log:**
+
 ```bash
 2022-05-15T12:47:35.9902213Z Requested labels: ubuntu-latest
 2022-05-15T12:47:35.9902311Z Job defined at: artem-devitsky/04.GitOps/.github/workflows/find_tabs_push.yaml@refs/heads/dev
